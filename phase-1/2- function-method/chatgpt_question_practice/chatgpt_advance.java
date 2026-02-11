@@ -1,3 +1,4 @@
+package chatgpt_question_practice;
 public class chatgpt_advance {
 static int max(int x, int y, int z){
     int largest=x;
