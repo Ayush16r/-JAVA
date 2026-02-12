@@ -5,6 +5,7 @@ public class q1 {
         int largest = Integer.MIN_VALUE;
         int second = Integer.MIN_VALUE;
         
+        
 
 } 
     }
